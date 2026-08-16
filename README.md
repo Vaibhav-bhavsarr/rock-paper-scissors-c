@@ -13,6 +13,12 @@ I created this project 3 years ago when I was first learning C programming. I am
 ## How to Run
 To compile and run this game on your machine, you will need a C compiler (like GCC).
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR-USERNAME/rock-paper-scissors-c.git](https://github.com/YOUR-USERNAME/rock-paper-scissors-c.git)
+## Prerequisites
+To compile and run this game, you will need a C compiler installed on your system, such as **GCC**.
+
+## How to Install and Run
+
+### 1. Clone the Repository
+To get a copy of the project on your local machine, run the following command in your terminal:
+```bash
+git clone [https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git)
