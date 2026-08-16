@@ -1,4 +1,4 @@
-# 🪨📄✂️ Rock Paper Scissors in C
+# ✂️ Rock Paper Scissors in C
 
 A simple, command-line Rock-Paper-Scissors game written in C. 🕹️
 
@@ -18,4 +18,4 @@ To compile and run this game, you will need a C compiler installed on your syste
 ### 1️⃣ Clone the Repository
 To get a copy of the project on your local machine, run the following command in your terminal:
 ```bash
-git clone [https://github.com/Vaibhav-bhavsarr/rock-paper-scissors-c.git](https://github.com/Vaibhav-bhavsarr/rock-paper-scissors-c.git)
+git clone https://github.com/Vaibhav-bhavsarr/rock-paper-scissors-c.git
