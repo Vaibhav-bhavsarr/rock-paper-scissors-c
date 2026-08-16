@@ -21,4 +21,4 @@ To compile and run this game, you will need a C compiler installed on your syste
 ### 1. Clone the Repository
 To get a copy of the project on your local machine, run the following command in your terminal:
 ```bash
-git clone [https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git)
+git clone https://github.com/Vaibhav-bhavsarr/rock-paper-scissors-c.git
